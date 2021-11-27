@@ -17,7 +17,7 @@ namespace TestApp
             InitializeComponent();
             
             // test comment for git push
-            // test comment for git pushfgsfdgsdfgasdfasdfadsfsfdgsdfggfdh
+            // test comment for git pushfgsfdgsdfgasdfasdfadsfsfdgsdfggfdh\;\';k;'
             // test comment for git pushkjh
         }
     }
