@@ -17,16 +17,6 @@ namespace TestApp
             InitializeComponent();
             
             // test comment for git push
-            // test comment for git push2
-            // test comment for git push3
-            // test comment for git push4
-            // test comment for git push5
-            // test comment for git push6
-            // test comment for git push7
-            // test comment for git push8
-            // test comment for git push9
-            // test comment for git push10
-            // test comment for git push11
         }
     }
 }
