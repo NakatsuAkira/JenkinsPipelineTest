@@ -14,7 +14,6 @@ namespace TestApp
     {
         public Form1()
         {
-			adfadfasdfasdfasdfasdfasdf
             InitializeComponent();
             ///adsfasdfasdf
             ///test
