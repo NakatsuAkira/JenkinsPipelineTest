@@ -14,7 +14,6 @@ namespace TestApp
     {
         public Form1()
         {
-			int test a = 100;
             InitializeComponent();
             // test comment for git pushzxcvasdfasdfaadsfasdfasdfasdfasdfasdf
         }
